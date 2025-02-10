@@ -18,3 +18,4 @@ app.component('comment-form', CommentForm)
 app.component('comment', Comment)
 
 app.mount('#app')
+
