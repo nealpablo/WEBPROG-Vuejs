@@ -10,7 +10,7 @@
   <personal-profile/>
   <comment-form/>
   <comment/>
-  <rest-API></rest-API>
+  <rest-api/>
 
 </template>
 
